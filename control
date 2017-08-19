@@ -1,0 +1,10 @@
+Package: com.cryptic.maxvnode++
+Name: Maxvnode++
+Depends: 
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: DISCLAIMER: Do not install if you do not want your battery to die a little faster. Changes your maxvnode to 8000.
+Maintainer: Cryptic
+Author: Cryptic
+Section: System
+Tag: role::hacker
