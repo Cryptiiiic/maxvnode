@@ -1,5 +1,5 @@
 # Maxvnode++
-Increase maxvnode to 8000 on boot.
+Increase maxvnode to 6000 on boot.
 
 ---------------------------------------------------------------------------
 

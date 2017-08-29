@@ -20,7 +20,7 @@ int main(int argc, char **argv, char **envp)
         return 1;
     }
     
-    run_sysctl("kern.maxvnodes=8000", "-w");
+    run_sysctl("kern.maxvnodes=6000", "-w");
     
     return 0;
 }
