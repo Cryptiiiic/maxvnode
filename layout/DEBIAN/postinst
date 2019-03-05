@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Changing maxvnodes..."
+/usr/bin/maxvnode++
+echo "Done!"

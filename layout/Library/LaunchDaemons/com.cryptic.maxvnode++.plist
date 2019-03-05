@@ -8,7 +8,7 @@
 	<string>com.cryptic.maxvnode++</string>
 	<key>ProgramArguments</key>
 	<array>
-		<string>/usr/bin/Maxvnode++</string>
+		<string>/usr/bin/maxvnode++</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
